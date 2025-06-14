@@ -1,6 +1,7 @@
 # 🎬 GIPHY Clone App with React JS & Tailwind CSS
 
-![GIPHY Clone Screenshot](./Screenshot%202025-06-14%20at%2010.16.37%E2%80%AFPM.png)
+![GIPHY Clone Screenshot]
+<img width="1280" alt="Screenshot 2025-06-14 at 10 16 26 PM" src="https://github.com/user-attachments/assets/44ab77b1-6a15-4dc1-9c58-8be649e577b4" />
 
 ## 📌 Project Overview
 
