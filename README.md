@@ -1,12 +1,25 @@
-# React + Vite
+# 🎬 GIPHY Clone App with React JS & Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![GIPHY Clone Screenshot](./Screenshot%202025-06-14%20at%2010.16.37%E2%80%AFPM.png)
 
-Currently, two official plugins are available:
+## 📌 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a **GIPHY Clone** built using **React JS 18**, **Tailwind CSS**, and the **GIPHY API**. It lets users search, view, and favorite GIFs and stickers. The app is fully responsive, supports category filtering, sharing, and embedding of GIFs — making it an ideal resume project for frontend developers.
 
-## Expanding the ESLint configuration
+Inspired by the [Roadside Coder YouTube tutorial](https://www.youtube.com/watch?v=<YouTubeVideoID>) (May 5, 2024), this project also implements **Context API** for state management and **React Router v6** for navigation.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- 🔍 **Search GIFs/Stickers/Texts**
+- 🎞️ **Trending & Category Pages**
+- 💓 **Add to Favorites**
+- 📤 **Share & Embed GIFs**
+- 📱 **Mobile Responsive Design**
+- 🌐 **Routing with React Router**
+- ⚡ **Fast and sleek UI with Tailwind CSS**
+
+---
+
+
